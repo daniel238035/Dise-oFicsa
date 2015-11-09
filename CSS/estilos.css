@@ -1,0 +1,128 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    position: relative;
+    background: #C1C1C1;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    padding: 0px;
+    border: 1px solid red;
+}
+
+header{
+    border: 1px solid blue;
+}
+
+#navegacion{
+    background: #72191C;
+    margin: 0px;
+    position: relative;
+    
+}
+
+#botones{
+    
+    border: 1px solid blue;
+}
+
+#botones nav{
+    overflow: hidden;
+}
+#botones nav ul{
+    padding: 0;
+    margin: 0;
+    float: right;
+    
+}
+
+#botones nav ul li{
+
+    color: white;
+    display: inline-block;
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding:6px 8px 6px 8px;
+    
+    
+}
+
+#botones nav ul li a{
+    padding:5px 2px 5px 2px;
+}
+
+#inicio{
+    background: #72191C;
+}
+
+#oficinas{
+    background: #2D2D2D;
+}
+
+#enlaces{
+    background: black;
+}
+
+#menu{
+    background: white;
+    margin: 0px;
+    position: absolute;
+    padding: 0px;
+    border: 1px solid red;
+    width: 100%;
+    
+}
+
+#menu_central{
+    border: 1px solid red;
+    width: 90%;
+    margin-left: 5%;
+    position: relative;
+    
+}
+
+#logo{
+    display: inline-block;
+    width: 100%;
+}
+
+.logo_fig{
+    padding: 0px;
+    margin: 0px;
+    width: 100px;
+}
+.logo_fig img {
+    
+    width: 150px;
+    border: 1px solid red;
+}
+
+#logo h2{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid red;
+    width: 60px;                                                                                                                                                         position: relative;
+    
+}
+
+
+#nav_menu{
+    
+}
+#nav_menu h3{
+    color: #72191C;
+}
+
+#nav_menu span{
+     color: #72191C;
+}
+
+#nav_menu ul li {
+    list-style: none;
+}
+
+
+
